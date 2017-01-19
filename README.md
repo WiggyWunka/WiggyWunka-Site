@@ -7,4 +7,4 @@ I cannot guarantee this will work for anyone else and do not intend on providing
 
 Thank you.
 
-Copyright (c) 2016 Fabrizio Martinez (WiggyWunka) All Rights Reserved.
+Copyright (c) 2016-2017 Fabrizio Martinez (WiggyWunka) All Rights Reserved.
